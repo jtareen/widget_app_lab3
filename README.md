@@ -43,7 +43,8 @@ To run the app:
 
 ## Screenshots
 
-
+![App Screenshot 1](assets/screenshot01.png)
+![App Screenshot 2](assets/screenshot02.png)
 
 ---
 
